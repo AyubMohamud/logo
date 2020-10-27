@@ -1,2 +1,2 @@
 # Ipad Logo
-- Link: 
+- Link: https://ayubmohamud.github.io/logo/
